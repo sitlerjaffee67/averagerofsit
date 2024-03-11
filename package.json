@@ -1,0 +1,26 @@
+{
+  "name": "averagerofsit",
+  "version": "1.0.0",
+  "description": "Averager is a versatile tool for computing averages in JavaScript. Whether you're working with arrays of numbers or need to calculate the mean of dynamically generated data, Averager provides a reliable and efficient solution for your averaging needs.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "averagerofsit": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sitlerjaffee67/averagerofsit.git"
+  },
+  "homepage": "https://github.com/sitlerjaffee67/averagerofsit/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "sitlerjaffee67",
+  "license": "MIT"
+}
